@@ -26,13 +26,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				   <li class='active'><a href="index.html">Home</a></li>
 				   <li><a href="#">Page</a>
 					  <ul>
-						 <li><a href='#'>Product 1</a>
+						 <li><a href='#'>Product one</a>
 							<ul>
 							   <li><a href='#'>Sub Product</a></li>
 							   <li><a href='#'>Sub Product</a></li>
 							</ul>
 						 </li>
-						 <li><a href='#'>Product 2</a>
+						 <li><a href='#'>Product two</a>
 							<ul>
 							   <li><a href='#'>Sub Product</a></li>
 							   <li><a href='#'>Sub Product</a></li>
