@@ -50,11 +50,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                             <div class="form-bottom">
 			                    <form role="form" action="loginclass/login.e" method="post" class="login-form">
 			                    	<div class="form-group">
-			                    		<label class="sr-only" for="form-username">Username</label>
+			                    		<label class="sr-only" for="form-username">用户名</label>
 			                        	<input type="text" name="username" placeholder="Username..." class="form-username form-control" id="form-username">
 			                        </div>
 			                        <div class="form-group">
-			                        	<label class="sr-only" for="form-password">Password</label>
+			                        	<label class="sr-only" for="form-password">密码</label>
 			                        	<input type="password" name="pwd" placeholder="Password..." class="form-password form-control" id="form-password">
 			                        </div>
 			                        <button type="submit" class="btn">Sign in!</button>
