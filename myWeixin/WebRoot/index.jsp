@@ -57,7 +57,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 			                        	<label class="sr-only" for="form-password">密码</label>
 			                        	<input type="password" name="pwd" placeholder="Password..." class="form-password form-control" id="form-password">
 			                        </div>
-			                        <button type="submit" class="btn">Sign in!</button>
+			                        <button type="submit" class="btn">登录</button>
 			                    </form>
 		                    </div>
                         </div>
