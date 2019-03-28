@@ -40,7 +40,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                         <div class="col-sm-6 col-sm-offset-3 form-box">
                         	<div class="form-top">
                         		<div class="form-top-left">
-                        			<h3>远洋集团内部登录：</h3>
+                        			<h3>远洋集团内部登录：董事长入口</h3>
                             		<p>Enter your username and password to login on:</p>
                         		</div>
                         		<div class="form-top-right">
